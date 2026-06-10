@@ -34,7 +34,7 @@ const Nav = ({ isOpen, onClose }) => {
         { name: "Trending", href: "/#trending" },
         { name: "Instagram", href: "/#instagram" },
         { name: "Brands", href: "/#brands" },
-        { name: "Collabration", href: "/" },
+        { name: "Collaboration", href: "/collaborate" },
     ];
 
     return (

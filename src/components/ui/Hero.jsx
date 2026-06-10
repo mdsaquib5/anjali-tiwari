@@ -63,11 +63,11 @@ const Hero = () => {
                     <div className="hero-content">
                         <div className="hero-heading">Hey, I'm <span>Anjali Tiwari</span></div>
                         <div className="profile">I am a <span className="highlight-text">{roles[index].substring(0, subIndex)}<span className="typing-cursor"></span></span></div>
-                        <p>Beauty, Aviation, Travel, Lifestyle With Elegance</p>
+                        <p>Soaring Through Skies, Creating with Grace</p>
                         <Link href="#about" className="btn primary-btn">About me</Link>
                     </div>
                     <div className="hero-img">
-                        <Image src="/hero-image.png" alt="hero-img" width={547} height={1741} priority />
+                        <Image src="/hero-image.png" alt="hero-img" width={640} height={903} priority />
                         <div className="followers">{count}+<span>Followers</span></div>
                         <div className="reach">5.6K<span>Max Reach</span></div>
                     </div>

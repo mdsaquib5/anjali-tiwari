@@ -344,7 +344,7 @@ export default function CollabForm() {
                         <h2>Pitch received!</h2>
                         <p>
                             Thank you for reaching out, <strong>{form.brand}</strong>!<br />
-                            Rafat will review your pitch and get back to you shortly.
+                            Anjali will review your pitch and get back to you shortly.
                         </p>
                         <div className="ref-id-box">
                             {refId}

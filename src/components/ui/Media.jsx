@@ -63,14 +63,14 @@ const Media = () => {
                                 transition={{ type: "spring", stiffness: 300, damping: 20 }}
                                 onClick={() => openLightbox(idx)}
                             >
-                                <Image src={img.src} alt={`Media ${img.id}`} width={640} height={850} />
+                                <Image src={img.src} alt={`Media ${img.id}`} width={640} height={860} />
                                 <div className="media-overlay">
                                     <span>View Story</span>
                                 </div>
                             </motion.div>
                         ))}
                     </div>
-                    <div className='signature'>Bringing Brand Stories to Life !</div>
+                    <div className='signature'>Translating Brand Visions into High-Flying Stories!</div>
                 </div>
                 <div className='gallery-2'>
                     {images.slice(6, 10).map((img, idx) => (
@@ -80,7 +80,7 @@ const Media = () => {
                             transition={{ type: "spring", stiffness: 300, damping: 20 }}
                             onClick={() => openLightbox(idx + 6)}
                         >
-                            <Image src={img.src} alt={`Media ${img.id}`} width={640} height={850} />
+                            <Image src={img.src} alt={`Media ${img.id}`} width={640} height={860} />
                             <div className="media-overlay">
                                 <span>View Story</span>
                             </div>

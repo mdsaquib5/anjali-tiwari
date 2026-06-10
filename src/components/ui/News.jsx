@@ -31,7 +31,7 @@ const News = () => {
     return (
         <section id="trending" className="news-bg">
             <div className="container">
-                <div className="news-title-bg">Lifestyle Stories</div>
+                <div className="news-title-bg">Visual Diaries</div>
                 <div className="instagram-posts-wrapper">
                     {instagramPosts.map((instagramPost, index) => (
                         <div className="instagram-post" key={index}>

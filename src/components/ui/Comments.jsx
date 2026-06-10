@@ -1,14 +1,14 @@
 const comments = [
-    "Honestly, your flight vlogs and cabin crew aesthetic are next level! ✈️✨ Keep shining with such gorgeous content 🌸👏",
-    "The way you capture the life of a cabin crew member is so engaging 🛫💫 Truly love seeing your travel diaries! 🌍💖",
-    "Loved your beauty hacks and aviation styling tips! 💄✨ You bring real elegance and authenticity 🌟💯",
-    "Your styling advice and cabin crew grace are so professional! ✈️✨ Really impressed with your aesthetic 👏💖",
-    "Outstanding work on the latest travel collaborations! 👜❤️ Your media presence and style are truly inspiring 💫🛫",
-    "Every vlog you share feels so calm, fresh, and aesthetic 🌴✈️ Keep growing and sharing your journey! 🚀✨",
-    "Such a confident and elegant showcase of the skies! ✈️💖 Your reels keep the audience fully connected 📺✨",
-    "Your travel content always feels so premium and authentic 🌸✨ Truly one of the best lifestyle creators! 💫👏",
-    "Brilliant product collaborations and amazing camera confidence! 📸🔥 You bring such elegant charm to everything 💖✨",
-    "Loved the way you showed the cabin crew beauty routine! 💯✨ Your presentation and tips are amazing ✈️💄"
+    "so so so pretty! 🌷 always spreading your wings and taking off! ✈️✨",
+    "Beautiful views from Dubai! 😍 the travel aesthetic is next level 🔥",
+    "Wow! Radhe Radhe ✨ such a lovely and peaceful vibe 🪷❤️",
+    "Your flight diaries and uniform posts are just gorgeous! 🛫 Slaying as always!",
+    "Honestly, your reels are so engaging! Posing in Bengaluru and Kochi like a pro 🌍🌸",
+    "Varanasi looks absolutely magical in your stories! ✨ Radhe Radhe 🪷",
+    "So proud of you! Keep flying high and spreading positive energy ✈️💫",
+    "Absolutely love your travel aesthetic! Indonesia pictures are stunning 🇮🇩❤️",
+    "Such an elegant showcase of cabin crew life! ✈️💖 Real angel on the ground and in the air!",
+    "Radhe Radhe! 🪷 Truly love the grace and confidence you bring to your content 🌟"
 ]
 
 const Comments = () => {
