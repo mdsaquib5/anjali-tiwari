@@ -163,7 +163,7 @@ header {
 
 /* Header ends */
 .hero-bg {
-    background: linear-gradient(#000000b3, #000000c4), url(/hero-bg.jpg) center fixed no-repeat;
+    background: linear-gradient(#000000b3, #000000c4), url(/hero-bg.webp) center fixed no-repeat;
     background-size: cover;
     background-position: center 100%;
     width: 100%;
@@ -491,7 +491,7 @@ header {
 
 /* about me ends */
 .comments-bg {
-    background: url('/comment-bg.jpg') no-repeat fixed;
+    background: url('/comment-bg.webp') no-repeat fixed;
     background-position: 100% 70%;
     background-size: cover;
     height: 100vh;

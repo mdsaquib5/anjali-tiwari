@@ -4,7 +4,7 @@ import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import Cta from "./Cta";
 import { IoClose } from "react-icons/io5";
-import Logo from "./Logo";
+
 
 const Nav = ({ isOpen, onClose }) => {
     const menuVariants = {
@@ -34,7 +34,7 @@ const Nav = ({ isOpen, onClose }) => {
         { name: "Trending", href: "/#trending" },
         { name: "Instagram", href: "/#instagram" },
         { name: "Brands", href: "/#brands" },
-        { name: "Collaboration", href: "/collaborate" },
+        { name: "Collaboration", href: "/" },
     ];
 
     return (

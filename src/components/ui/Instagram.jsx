@@ -50,11 +50,11 @@ const ReelCard = ({ reel }) => {
 
 const Instagram = () => {
     const reels = [
-        { id: 1, img: "/thumbnail1.png", video: "/video1.mp4" },
-        { id: 2, img: "/thumbnail2.png", video: "/video2.mp4" },
-        { id: 3, img: "/thumbnail3.png", video: "/video3.mp4" },
-        { id: 4, img: "/thumbnail4.png", video: "/video4.mp4" },
-        { id: 5, img: "/thumbnail5.png", video: "/video5.mp4" },
+        { id: 1, img: "/thumbnail1.webp", video: "/video1.mp4" },
+        { id: 2, img: "/thumbnail2.webp", video: "/video2.mp4" },
+        { id: 3, img: "/thumbnail3.webp", video: "/video3.mp4" },
+        { id: 4, img: "/thumbnail4.webp", video: "/video4.mp4" },
+        { id: 5, img: "/thumbnail5.webp", video: "/video5.mp4" },
     ];
 
     return (
