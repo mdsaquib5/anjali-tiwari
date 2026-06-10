@@ -4,7 +4,7 @@ import { RxInstagramLogo } from "react-icons/rx";
 const Cta = () => {
     return (
         <div className="cta">
-            <Link href={'https://www.instagram.com/cloudkissed1_/'} target="_blank" className="btn primary-btn"><RxInstagramLogo />Follow me</Link>
+            <Link href={'https://www.instagram.com/_alpha_tango__/'} target="_blank" className="btn primary-btn"><RxInstagramLogo />Follow me</Link>
         </div>
     )
 }

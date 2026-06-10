@@ -17,7 +17,7 @@ const Footer = () => {
                 <div className="footer-top">
                     <Logo />
                     <div className="social-media">
-                        <Link href={'https://www.instagram.com/cloudkissed1_?igsh=cWlwOTB4dXY1Z25s&utm_source=qr'} target="_blank"><RxInstagramLogo /></Link>
+                        <Link href={'https://www.instagram.com/_alpha_tango__/'} target="_blank"><RxInstagramLogo /></Link>
                     </div>
                 </div>
                 <div className="chat" id="anim">
