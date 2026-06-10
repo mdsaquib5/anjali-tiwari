@@ -8,9 +8,9 @@ import 'swiper/css/free-mode';
 import Image from 'next/image';
 
 const brandsData = [
-    { alt: "Brand-1", img: "/brands/brand-1.webp" },
-    { alt: "Brand-2", img: "/brands/brand-2.webp" },
-    { alt: "Brand-3", img: "/brands/brand-3.webp" },
+    { alt: "Brand-1", img: "/brand-1.webp" },
+    { alt: "Brand-2", img: "/brand-2.webp" },
+    { alt: "Brand-3", img: "/brand-3.webp" },
 ];
 
 const Brands = () => {
